@@ -16,5 +16,28 @@ namespace Torneo_Anual_Golf_2016
         {
             InitializeComponent();
         }
+
+        private void jugadorBindingNavigatorSaveItem_Click(object sender, EventArgs e)
+        {
+            this.Validate();
+            this.jugadorBindingSource.EndEdit();
+            this.tableAdapterManager.UpdateAll(this.database_shootoutDataSet);
+
+        }
+
+        private void jugadorBindingNavigatorSaveItem_Click_1(object sender, EventArgs e)
+        {
+            this.Validate();
+            this.jugadorBindingSource.EndEdit();
+            this.tableAdapterManager.UpdateAll(this.database_shootoutDataSet);
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // TODO: This line of code loads data into the 'database_shootoutDataSet.Jugador' table. You can move, or remove it, as needed.
+            this.jugadorTableAdapter.Fill(this.database_shootoutDataSet.Jugador);
+
+        }
     }
 }
