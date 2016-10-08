@@ -240,6 +240,7 @@
             this.simpleButton1.Size = new System.Drawing.Size(98, 23);
             this.simpleButton1.TabIndex = 3;
             this.simpleButton1.Text = "Iniciar Juego";
+            this.simpleButton1.Click += new System.EventHandler(this.simpleButton1_Click);
             // 
             // Form1
             // 

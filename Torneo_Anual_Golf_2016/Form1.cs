@@ -39,5 +39,11 @@ namespace Torneo_Anual_Golf_2016
             this.jugadorTableAdapter.Fill(this.database_shootoutDataSet.Jugador);
 
         }
+
+        private void simpleButton1_Click(object sender, EventArgs e)
+        {
+            frm_tiros_actuales tiro = new frm_tiros_actuales();
+            tiro.Show();
+        }
     }
 }
