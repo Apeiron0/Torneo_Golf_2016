@@ -91,3 +91,4 @@ C:\Users\Sis-Aux\Documents\Visual Studio 2015\Projects\Torneo_Anual_Golf_2016\To
 C:\Users\Sis-Aux\Documents\Visual Studio 2015\Projects\Torneo_Anual_Golf_2016\Torneo_Anual_Golf_2016\obj\Debug\Torneo_Anual_Golf_2016.exe
 C:\Users\Sis-Aux\Documents\Visual Studio 2015\Projects\Torneo_Anual_Golf_2016\Torneo_Anual_Golf_2016\obj\Debug\Torneo_Anual_Golf_2016.pdb
 C:\Users\Sis-Aux\Documents\Visual Studio 2015\Projects\Torneo_Anual_Golf_2016\Torneo_Anual_Golf_2016\obj\Debug\Torneo_Anual_Golf_2016.frm_tiros_actuales.resources
+C:\Users\Sis-Aux\Documents\Visual Studio 2015\Projects\Torneo_Anual_Golf_2016\Torneo_Anual_Golf_2016\obj\Debug\Torneo_Anual_Golf_2016.frm_resultados.resources

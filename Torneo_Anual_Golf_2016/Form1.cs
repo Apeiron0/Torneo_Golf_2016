@@ -43,7 +43,9 @@ namespace Torneo_Anual_Golf_2016
         private void simpleButton1_Click(object sender, EventArgs e)
         {
             frm_tiros_actuales tiro = new frm_tiros_actuales();
+            frm_resultados res = new frm_resultados();
             tiro.Show();
+            res.Show();
         }
     }
 }
